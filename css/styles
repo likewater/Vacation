@@ -3,4 +3,6 @@ body {
 }
 img {
   float: center;
+  width: 500px;
+  height: auto;
 }
