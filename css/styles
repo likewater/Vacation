@@ -13,3 +13,7 @@ img {
   width: 15%;
   height: auto;
 }
+
+.row {
+  background-color: orange;
+}
