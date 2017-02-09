@@ -6,3 +6,9 @@ img {
   width: 500px;
   height: auto;
 }
+
+.caps {
+float: center;
+width: 15%;
+height: auto;
+}
