@@ -16,4 +16,11 @@ img {
 
 .row {
   background-color: orange;
+  border-style: solid;
+  text-align: center;
+  padding: 15px;
+}
+
+.col-md-4 {
+  padding: 10px;
 }
